@@ -1,0 +1,9 @@
+ntp: {server: 'europe.pool.ntp.org',
+      check_interval_seconds: 7200
+      }
+
+fts: {ip: '172.18.0.7',
+      ews_homepage: 'Home.htm'
+      }
+
+log: {logpath: 'Z:\output\nyalesund_ntp_log'}
